@@ -1,3 +1,7 @@
 h2 {
-  font-size:2vw; 
+  font-size:150%; 
+}
+.logo {
+  width: 50%;
+  height: auto;
 }
