@@ -1,7 +1,12 @@
 h2 {
   font-size:150%; 
+  height: auto;
 }
 .logo {
   width: 100%;
   height: auto;
+  width: clamp(30px, 2vw, 100px);
+}
+.rounded {
+  border-radius: 8px;
 }
